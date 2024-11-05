@@ -33,6 +33,3 @@ String s = "101010";
    
 4. **Return Value:** 
    - The method returns `ans`, which is 3.
-
-### Summary
-For the input `"101010"`, `minChanges` returns `3`, meaning 3 changes are required to make each adjacent pair of characters in the string the same.
